@@ -1,0 +1,22 @@
+Partlist
+
+Exported from SolarCharger.sch at 24.09.2024 13:52:03
+
+EAGLE Version 5.12.0 Copyright (c) 1988-2011 CadSoft
+
+Part     Value            Device            Package                Library                Sheet
+
+C1       100µF            CPOL-EUE5-13      E5-13                  HTL-RCL                1
+C2       220µF            CPOL-EUE5-8.5     E5-8,5                 HTL-RCL                1
+C3       100µF            CPOL-EUE5-10.5    E5-10,5                HTL-RCL                1
+C4       100µF            CPOL-EUE5-10.5    E5-10,5                HTL-RCL                1
+CFF                       C-EU050-030X075   C050-030X075           HTL-RCL                1
+D1       1N5822           1N5624            DO201-15               HTL-diode              1
+IC1      LM2596T          LM2596T           T05D                   national-semiconductor 1
+L1       33µH             L                 AMRM00101040           hel-diverses           1
+R1       1k5              R-EU_0309/12MM-5E 0309/12                HTL-RCL                1
+R2       4k7              R-EU_0309/12MM-5E 0309/12                HTL-RCL                1
+R3       10k              R-EU_0309/12MM-5E 0309/12                HTL-RCL                1
+R4       10k              R-EU_0309/12MM-5E 0309/12                HTL-RCL                1
+U$1      USB-C-RECEPTACLE USB-C-RECEPTACLE  6-PIN-USB-C-RECEPTACLE hel-diverses           1
+X1                        W237-4            W237-4                 con-wago-500           1
